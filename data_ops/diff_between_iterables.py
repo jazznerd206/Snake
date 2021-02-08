@@ -1,5 +1,5 @@
 # difference
-# Returns the difference between two iterables.
+# Returns the difference between two iterable objects 
 
 # Use list comprehension to only keep values not contained in b
 
